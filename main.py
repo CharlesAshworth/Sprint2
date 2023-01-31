@@ -1,5 +1,5 @@
 # Charles Ashworth
-#Professor Santore
+# Professor Santore
 # COMP 490
 # Sprint 1
 

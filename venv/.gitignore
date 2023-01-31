@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*.log
+venv/
+input/*.xlsx
+secrets.py
+
